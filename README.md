@@ -12,6 +12,7 @@ The analysis is performed using Python, with a focus on Exploratory Data Analysi
 - Visualization: Create visualizations to represent the findings effectively.
 - Advanced Analysis: Perform text analysis (e.g., word clouds) to gain deeper insights into the data.
 
+## Insights
 ### Sentiment Distribution
 ![Screenshot 2025-02-01 010019](https://github.com/user-attachments/assets/caae31d4-fb2b-48bd-a78a-8b60fed226e7)
 ![Screenshot 2025-02-01 010044](https://github.com/user-attachments/assets/8daa6f28-d3d2-4be9-acdd-7b51c3a3c5e6)
@@ -47,3 +48,9 @@ This analysis provides valuable insights into public sentiment towards various e
 This project demonstrates the power of data analysis and visualization in understanding social media sentiment. Future work could include:
 - Performing sentiment analysis at scale using Natural Language Processing (NLP) techniques.
 - Comparing sentiment trends over time to identify shifts in public opinion.
+
+## Contact
+
+Linkedln: http://www.linkedin.com/in/festus-ijabani-159585293
+
+Email: ijabanifestus01@gmail.com
