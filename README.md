@@ -55,8 +55,8 @@ This project demonstrates the power of data analysis and visualization in unders
 - Performing sentiment analysis at scale using Natural Language Processing (NLP) techniques.
 - Comparing sentiment trends over time to identify shifts in public opinion.
 
-## Contact
+# Thank you
 
-Linkedln: http://www.linkedin.com/in/festus-ijabani-159585293
+For more information, you can contact me
 
-Email: ijabanifestus01@gmail.com
+![1744659](https://github.com/user-attachments/assets/c145f32e-3351-4b7b-9c31-f02d2f9c3b05)
