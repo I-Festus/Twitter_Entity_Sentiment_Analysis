@@ -1,7 +1,8 @@
 ## Twitter Entity Sentiment Analysis
 ### Leveraging Python to Analyze and Visualize Social Media Sentiment for Deeper Insights into Public Opinion Using Dummy Data
 
-![image](https://github.com/user-attachments/assets/b8f54abd-5cb7-4893-94ae-1ac32aed769b)
+ ![image](https://github.com/user-attachments/assets/599d4770-70e1-4871-8eba-c2f6b7f288f4)
+
 
 Disclaimer⚠️: This project uses dummy data to analyze and visualize social media sentiment, demonstrating my ability to use Python for advanced predictive machine learning models. No real or sensitive information is included.
 
