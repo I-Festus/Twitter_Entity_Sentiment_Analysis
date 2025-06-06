@@ -1,5 +1,10 @@
-# PRODIGY_DS_04
 ## Twitter Entity Sentiment Analysis
+### Leveraging Python to Analyze and Visualize Social Media Sentiment for Deeper Insights into Public Opinion Using Dummy Data
+
+![image](https://github.com/user-attachments/assets/b8f54abd-5cb7-4893-94ae-1ac32aed769b)
+
+Disclaimer⚠️: This project uses dummy data to analyze and visualize social media sentiment, demonstrating my ability to use Python for advanced predictive machine learning models. No real or sensitive information is included.
+
 ## Description
 This project focuses on analyzing and visualizing sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. The dataset used is the Twitter Entity Sentiment Analysis dataset from Kaggle, which contains tweets labeled with entities and their corresponding sentiments (positive, negative, neutral).
 
