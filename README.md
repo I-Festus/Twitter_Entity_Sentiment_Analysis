@@ -3,9 +3,6 @@
 
  ![image](https://github.com/user-attachments/assets/599d4770-70e1-4871-8eba-c2f6b7f288f4)
 
-
-Disclaimer⚠️: This project uses dummy data to analyze and visualize social media sentiment, demonstrating my ability to use Python for advanced predictive machine learning models. No real or sensitive information is included.
-
 ## Description
 This project focuses on analyzing and visualizing sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. The dataset used is the Twitter Entity Sentiment Analysis dataset from Kaggle, which contains tweets labeled with entities and their corresponding sentiments (positive, negative, neutral).
 
